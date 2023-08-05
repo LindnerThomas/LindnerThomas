@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thomas.lindner0610@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/thomas-lindner-0222b5244/</h3>
 <p align="left">
 </p>
 
