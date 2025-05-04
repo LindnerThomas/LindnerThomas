@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thomas Lindner</h1>
-<h3 align="center">A computer science and statistics student from Munich, Germany</h3>
+<h1 align="center">Hi 👋, I'm Thomas</h1>
+<h3 align="center">A statistics and data science student from Munich, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindnerthomas&label=Profile%20views&color=0e75b6&style=flat" alt="lindnerthomas" /> </p>
 
