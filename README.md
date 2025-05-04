@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A statistics and data science student from Munich, Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindnerthomas&label=Profile%20views&color=0e75b6&style=flat" alt="lindnerthomas" /> </p>
-
-- 📫 How to reach me **thomas.lindner0610@gmail.com**
+- 📫 How to reach me **Lindner.Thomas@campus.lmu.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
