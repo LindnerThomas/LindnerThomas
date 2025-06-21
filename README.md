@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A statistics and data science student from Munich, Germany</h3>
+<h3 align="center">A statistics and data science student from Munich, Germany studying at LMU Munich. Starting in August, I will be staying at ENSAI Rennes for a semester abroad</h3>
 
 - 📫 How to reach me **Lindner.Thomas@campus.lmu.de**
 
