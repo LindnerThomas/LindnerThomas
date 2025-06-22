@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">I'm currently doing my Master's in Statistics and Data Science at LMU Munich. Also, I'm a working student at MTU Aero Engines Munich writing the Backend for a Web Application from scratch using Python (Django and Django Rest Framework) and PostgreSQL. \
+<h3 align="center">I'm currently doing my Master's in Statistics and Data Science at LMU Munich. Also, I'm a working student at MTU Aero Engines Munich writing the Backend for a Web Application from scratch using Python (Django and Django Rest Framework) and PostgreSQL.  
 My current tech stack is mostly focused on Python, in particular Pytorch and JAX for my studies and Django for work. I also have some programing experience in Java, C and C# from my Bachelor's degree, which I also completed at LMU in Computer Science with a minor in Statisics.
 Starting in August, I will be staying at ENSAI Rennes for a semester abroad with a focus on Biostatistics.</h3>
 
